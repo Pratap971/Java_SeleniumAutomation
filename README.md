@@ -14,7 +14,7 @@ It lets you write scripts (in Java, Python, etc.) to:
 
 - Main use: Automated testing of web apps.
 
-#  How to Set Up Selenium with Java (Quick Steps) :  
+#  How to Set Up Selenium with Java :  
 - Install Java & IDE
 
 - Install Java JDK
